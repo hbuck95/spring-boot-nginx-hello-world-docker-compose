@@ -9,3 +9,8 @@ Run:
 ```
 docker-compose up -d
 ```
+
+View:
+```
+http://localhost:80
+```
