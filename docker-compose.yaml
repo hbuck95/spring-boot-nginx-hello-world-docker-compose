@@ -1,7 +1,7 @@
 version: '3.7'
 services:
         app:
-                image: helloworld_dockercompose
+                image: hello-world-docker-compose
                 build: .
                 container_name: hello_world
                 ports:
