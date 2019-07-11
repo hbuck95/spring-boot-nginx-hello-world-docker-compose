@@ -1,5 +1,7 @@
 # spring-boot-nginx-hello-world-docker-compose
 
+##A simple hello world example making use of Nginx, Docker, Docker-Compose, and Spring Boot
+
 Download:
 ```
 git clone https://github.com/hbuck95/spring-boot-nginx-hello-world-docker-compose/
